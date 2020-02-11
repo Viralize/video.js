@@ -23,3 +23,6 @@ sandbox/*
 
 *results.xml
 *.log
+
+# Used as nodeenv folder
+.videojsenv/

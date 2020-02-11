@@ -5,6 +5,9 @@ CHANGELOG
 _(none)_
 
 --------------------
+## 4.12.11-notrack-and-events-fix (2020-02-06)
+* @biagimarco fixed bug related to fullscreen mode
+
 ## 4.12.11-notrack (2017-12-04)
 * @Mulder90 Add passive event listeners support
 
